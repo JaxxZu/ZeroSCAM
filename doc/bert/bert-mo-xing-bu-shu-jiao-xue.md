@@ -23,7 +23,7 @@
 4. 執行程式Bert\_model\server.py
 
 {% code overflow="wrap" %}
-```
+```log
  * Running on all addresses (0.0.0.0)
  * Running on http://127.0.0.1:5000
  * Running on http://192.168.x.x:5000
