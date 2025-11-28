@@ -1,29 +1,27 @@
-# bert模型部署教學
+# Bert模型部署教學
 
 
 
-1. 下載檔案:fine\_tuned\_bert\_model\_drive\_1，model，並解壓縮
-2.  將fine\_tuned\_bert\_model\_drive\_1 裡面的五個檔案覆蓋掉model\model\fine\_tuned\_bert\_model裡的五個檔案<br>
+1. 下載檔案 ，並解壓縮
 
-    ```
-    └── model
-        ├── api.py
-        ├── data.csv
-        ├── fine_tuned_bert_model <-覆蓋此資料夾(名稱記得不變)
-        │   ├── config.json
-        │   ├── model.safetensors
-        │   ├── special_tokens_map.json
-        │   ├── tokenizer_config.json
-        │   └── vocab.txt
-        └── server.py
-    ```
-3.  開啟model\model\server.py，下載必要檔案(requirements)\
+```
+└── Bert_model
+    ├── fine_tuned_bert_model
+    │   ├── config.json
+    │   ├── model.safetensors
+    │   ├── special_tokens_map.json
+    │   ├── tokenizer_config.json
+    │   └── vocab.txt
+    └── server.py
+```
+
+1.  開啟model\model\server.py，下載必要檔案(requirements)\
     在終端輸入:
 
     ```
     pip install torch transformers flask
     ```
-4.  執行程式\
+2.  執行程式\
     用cd.. 進入儲存./fine\_tuned\_bert\_model的路徑
 
     應會跑出類似下方輸出結果:
