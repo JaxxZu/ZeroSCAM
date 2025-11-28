@@ -9,7 +9,11 @@ description: 本網站協助您在本機端部署ZeroSCAM後端，一步步帶�
 \
 1\. Bert模型部署教學
 
-功能 : 讓Android手機取得電腦ip位址，並連線到共同網域&#x20;
+功能 : 讓手機（client）連結到電腦（server）
+
+client請求文本
+
+server回應文本的詐騙機率
 
 
 
