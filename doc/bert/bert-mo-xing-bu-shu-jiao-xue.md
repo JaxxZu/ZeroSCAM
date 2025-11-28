@@ -20,7 +20,9 @@
 3.  開啟model\model\server.py，下載必要檔案(requirements)\
     在終端輸入:
 
+    ```
     pip install torch transformers flask
+    ```
 4.  執行程式\
     用cd.. 進入儲存./fine\_tuned\_bert\_model的路徑
 
