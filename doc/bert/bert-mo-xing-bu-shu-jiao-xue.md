@@ -1,6 +1,4 @@
-# Bert模型部署教學
-
-
+# Bert模型
 
 1. 下載檔案[Bert\_model.zip](https://github.com/JaxxZu/ZeroSCAM/releases/download/v0.1/Bert_model.zip)，並解壓縮
 
@@ -17,7 +15,7 @@
 
 2. 安裝必要套件
 
-<pre><code><strong>pip install uv
+<pre class="language-shellscript"><code class="lang-shellscript"><strong>pip install uv
 </strong><strong>uv pip install transformers flask
 </strong></code></pre>
 
@@ -25,7 +23,7 @@
 4. 執行程式Bert\_model\server.py
 
 {% code overflow="wrap" %}
-```json
+```
  * Running on all addresses (0.0.0.0)
  * Running on http://127.0.0.1:5000
  * Running on http://192.168.x.x:5000
@@ -44,4 +42,3 @@
 <pre><code><strong>[127.0.0.1] - - [15/Feb/2025 11:35:27] "POST /predict HTTP/1.1" 200 -
 </strong>[127.0.0.1] - - [15/Feb/2025 11:35:36] "POST /predict HTTP/1.1" 200 -
 </code></pre>
-
