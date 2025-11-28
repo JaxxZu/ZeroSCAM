@@ -17,9 +17,9 @@
 
 2. 安裝必要套件
 
-```
-pip install transformers flask
-```
+<pre><code><strong>pip install uv
+</strong><strong>uv pip install transformers flask
+</strong></code></pre>
 
 3. 安裝pytorch套件(GPU加速推論) [https://pytorch.org/get-started/locally/](https://pytorch.org/get-started/locally/)
 4. 執行程式Bert\_model\server.py
