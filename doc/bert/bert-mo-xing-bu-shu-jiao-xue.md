@@ -40,7 +40,7 @@ pip install torch transformers flask
 
 5.打開ZeroSCAM APP的設定，將詐騙機率檢測模型設定成電腦的ip位址，並使用錄音功能，電腦(server)顯示以下訊息即代表成功運行後端:
 
-<pre><code><strong>[網域] - - [15/Feb/2025 11:35:27] "POST /predict HTTP/1.1" 200 -
-</strong>[網域] - - [15/Feb/2025 11:35:36] "POST /predict HTTP/1.1" 200 -
+<pre><code><strong>[127.0.0.1] - - [15/Feb/2025 11:35:27] "POST /predict HTTP/1.1" 200 -
+</strong>[127.0.0.1] - - [15/Feb/2025 11:35:36] "POST /predict HTTP/1.1" 200 -
 </code></pre>
 
