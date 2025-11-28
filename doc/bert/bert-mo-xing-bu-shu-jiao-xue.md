@@ -2,7 +2,7 @@
 
 
 
-1. 下載檔案 ，並解壓縮
+1. 下載檔案 xxxx(to be finish)，並解壓縮
 
 ```
 └── Bert_model
