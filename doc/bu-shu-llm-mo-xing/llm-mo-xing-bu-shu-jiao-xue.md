@@ -16,16 +16,16 @@ layout:
     visible: true
 ---
 
-# LLM模型部署教學
+# LLM
 
 1. 下載並安裝[LM Studio](https://lmstudio.ai/)
 2.  搜尋並下載 `qwen3-30b-a3b-2507` 模型
 
-    <figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 3.
 4.  開啟api服務，並對內網開放（可選）
 
-    <figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 5.  載入模型
 
     <figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
