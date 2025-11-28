@@ -12,17 +12,24 @@ Bert模型
 
 Bert模型功能：根據對話文本識別詐騙機率
 
+client請求：   &#x20;
 
-
-client請求：
+```json
+{
+    "message": string
+}
+```
 
 
 
 server回應：
 
-
-
-
+```json
+{
+    "text_received": text,
+    "scam_probability": float
+}
+```
 
 ## LLM
 
@@ -30,7 +37,7 @@ LLM功能 : 根據對話文本產生防騙建議
 
 Client請求：
 
-```
+```json
 {
         "model": model_name,
         "messages": [
@@ -47,7 +54,7 @@ Client請求：
 
 Server回應：
 
-```
+```json
 {
   "id": "chatcmpl-763ns4nmob4aeomlgu9qj6",
   "object": "chat.completion",
