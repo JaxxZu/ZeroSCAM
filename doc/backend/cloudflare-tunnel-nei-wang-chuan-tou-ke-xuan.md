@@ -30,7 +30,10 @@ description: 讓外部網路可以安全地存取你的本機 / 內網服務
 8.  配置內網穿透，比如對外域名使用 bert.443.gs ，cloudflred向內網存取 http://127.0.0.1:5000
 
     <figure><img src="../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
-9.  可以在\[設定]->\[已發佈的應用程式路由]->\[已發佈的應用程式路由]中新增新的轉發規則![](<../.gitbook/assets/image (12).png>)
+9.  可以在\[設定]->\[已發佈的應用程式路由]->\[已發佈的應用程式路由]中新增新的轉發規則
+
 
     <figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
+    <figure><img src="../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
 
