@@ -18,10 +18,11 @@
 2. 安裝必要套件
 
 ```
-pip install torch transformers flask
+pip install transformers flask
 ```
 
-3. 執行程式Bert\_model\server.py
+3. 安裝pytorch套件(GPU加速推論) [https://pytorch.org/get-started/locally/](https://pytorch.org/get-started/locally/)
+4. 執行程式Bert\_model\server.py
 
 {% code overflow="wrap" %}
 ```json
