@@ -15,23 +15,20 @@
     └── server.py
 ```
 
-1.  開啟model\model\server.py，下載必要檔案(requirements)\
-    在終端輸入:
+2. 安裝必要套件
 
-    ```
-    pip install torch transformers flask
-    ```
-2.  執行程式\
-    用cd.. 進入儲存./fine\_tuned\_bert\_model的路徑
+```
+pip install torch transformers flask
+```
 
-    應會跑出類似下方輸出結果:
+3. 執行程式Bert\_model\server.py
 
 {% code overflow="wrap" %}
 ```json
  * Running on all addresses (0.0.0.0)
- * Running on http://[電腦ip位址]
- * Running on http://[網域]
- * Running on http://[網域]
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.x.x:5000
+ * Running on http://x.x.x.x:5000 (公網ip，如有)
 ```
 {% endcode %}
 
