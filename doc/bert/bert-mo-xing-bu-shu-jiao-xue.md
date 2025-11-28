@@ -38,7 +38,7 @@ pip install torch transformers flask
 * WARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.
 {% endhint %}
 
-5.在手機上加入電腦的ip位址，並使用功能，開始錄音詐騙，電腦(server)便會顯示以下訊息:
+5.打開ZeroSCAM APP的設定，將詐騙機率檢測模型設定成電腦的ip位址，並使用錄音功能，電腦(server)顯示以下訊息即代表成功運行後端:
 
 <pre><code><strong>[網域] - - [15/Feb/2025 11:35:27] "POST /predict HTTP/1.1" 200 -
 </strong>[網域] - - [15/Feb/2025 11:35:36] "POST /predict HTTP/1.1" 200 -
