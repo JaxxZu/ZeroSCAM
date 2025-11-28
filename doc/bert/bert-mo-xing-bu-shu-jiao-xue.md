@@ -20,7 +20,11 @@
 </strong></code></pre>
 
 3. 安裝pytorch套件(GPU加速推論) [https://pytorch.org/get-started/locally/](https://pytorch.org/get-started/locally/)
-4. 執行程式Bert\_model\server.py
+4. 執行程式
+
+```shellscript
+python "Bert_model\server.py"
+```
 
 {% code overflow="wrap" %}
 ```log
