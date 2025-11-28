@@ -21,13 +21,16 @@ description: 讓外部網路可以安全地存取你的本機 / 內網服務
     <figure><img src="../.gitbook/assets/image (10) (1).png" alt=""><figcaption></figcaption></figure>
 6.  根據網頁說明安裝連接器，然後連接到Tunnel
 
-    <figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
-
     <figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+
+    <figure><img src="../.gitbook/assets/image (1) (2).png" alt=""><figcaption></figcaption></figure>
 7.  連結後，網站內會顯示已連線，然後按\[下一步]
 
     <figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
 8.  配置內網穿透，比如對外域名使用 bert.443.gs ，cloudflred向內網存取 http://127.0.0.1:5000
 
     <figure><img src="../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
+9.  可以在\[設定]->\[已發佈的應用程式路由]->\[已發佈的應用程式路由]中新增新的轉發規則![](<../.gitbook/assets/image (12).png>)
+
+    <figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
