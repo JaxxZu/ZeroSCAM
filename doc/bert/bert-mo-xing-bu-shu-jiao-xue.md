@@ -2,7 +2,7 @@
 
 
 
-1. 下載檔案 xxxx(to be finish)，並解壓縮
+1. 下載檔案[Bert\_model.zip](https://github.com/JaxxZu/ZeroSCAM/releases/download/v0.1/Bert_model.zip)，並解壓縮
 
 ```
 └── Bert_model
