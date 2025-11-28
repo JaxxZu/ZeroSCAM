@@ -40,11 +40,7 @@ pip install torch transformers flask
 
 5.在手機上加入電腦的ip位址，並使用功能，開始錄音詐騙，電腦(server)便會顯示以下訊息:
 
-<pre><code>High risk detected! Asking AI for advice...
-External API Error: 400 Client Error: Bad Request for url: https://ai-anti-scam.443.gs/v1/chat/completions?token=7a4c019c-db87-4e21-b90e-9cfc75057f7e
-<strong>[網域] - - [28/Nov/2025 14:35:27] "POST /predict?7a4c019c-db87-4e21-b90e-9cfc75057f7e HTTP/1.1" 200 -
-</strong>High risk detected! Asking AI for advice...
-External API Error: 400 Client Error: Bad Request for url: https://ai-anti-scam.443.gs/v1/chat/completions?token=7a4c019c-db87-4e21-b90e-9cfc75057f7e
-[網域] - - [28/Nov/2025 14:35:36] "POST /predict?7a4c019c-db87-4e21-b90e-9cfc75057f7e HTTP/1.1" 200 -
+<pre><code><strong>[網域] - - [15/Feb/2025 11:35:27] "POST /predict HTTP/1.1" 200 -
+</strong>[網域] - - [15/Feb/2025 11:35:36] "POST /predict HTTP/1.1" 200 -
 </code></pre>
 
