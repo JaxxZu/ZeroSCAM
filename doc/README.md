@@ -1,5 +1,5 @@
 ---
-description: 本網站協助您在本機端部署ZeroSCAM後端，一步步帶你在自己的電腦部署我們的APP
+description: 本文檔協助您在本機端部署ZeroSCAM後端，一步步帶你在自己的電腦部署我們的APP
 ---
 
 # 首頁
