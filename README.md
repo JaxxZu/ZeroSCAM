@@ -9,7 +9,7 @@
 2. 複製api key，填寫進app中
 
 ##  前端
-  
+  使用Android Studio，透過連接cloudflare和手機進行練線
 ##  後端部署
   查看[後端部署文檔](https://zeroscam-team.gitbook.io/zeroscam-docs/backend/bert-mo-xing-bu-shu-jiao-xue)
 ##  實驗
