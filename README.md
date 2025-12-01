@@ -1,6 +1,7 @@
 # ZeroSCAM
-ZeroSCAM  
-
+基於Bert與LLM的實時通話詐騙檢測與防騙建議產生APP
+  
+  
 ## 使用教學
 ### 獲取雅婷即時STT
 1. 進入https://developer.yating.tw/dashboard ，註冊並完成簡訊驗證，可獲取1000新臺幣圓試用金   
