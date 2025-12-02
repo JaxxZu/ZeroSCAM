@@ -3,7 +3,7 @@
   
   
 ## 使用教學
-### 獲取雅婷即時STT
+### 獲取雅婷即時STT api 密鑰
 1. 進入https://developer.yating.tw/dashboard ，註冊並完成簡訊驗證，可獲取1000新臺幣圓試用金   
 ![](https://github.com/user-attachments/assets/75fbcb33-a5dc-4b02-9d72-354b3a0f008a)
 2. 複製api key，填寫進app中
