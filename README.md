@@ -1,6 +1,9 @@
 # ZeroSCAM
 基於Bert與LLM的實時通話詐騙檢測與防騙建議產生APP
-  
+    
+## 系統架構
+<img width="1754" height="1030" alt="firefox_tulggly7yj" src="https://github.com/user-attachments/assets/8c3affa4-1f3a-459f-84d7-0b625a2dad15" />
+
   
 ## 使用教學
 ### 獲取雅婷即時STT api 密鑰
